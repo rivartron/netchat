@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/Data/Worship/Source/CLionProjects/netchat/chat_client.cpp
+iostream
+-
+arpa/inet.h
+-
+thread
+-
+cstring
+-
+

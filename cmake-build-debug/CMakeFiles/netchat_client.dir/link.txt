@@ -1,0 +1,1 @@
+/usr/bin/c++ -pthread -g CMakeFiles/netchat_client.dir/chat_client.cpp.o -o netchat_client 

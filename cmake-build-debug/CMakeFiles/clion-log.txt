@@ -1,0 +1,4 @@
+/opt/CLion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /mnt/Data/Worship/Source/CLionProjects/netchat
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/Data/Worship/Source/CLionProjects/netchat/cmake-build-debug
