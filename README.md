@@ -1,5 +1,5 @@
 # netchat
-Client-Server TCP stream plaintext chat
+Client-Server TCP stream plaintext chat with IPv6 Compatibility
 
 netchat_server takes one argument, port number
 netchat_client takes two arguments, host address and port number
